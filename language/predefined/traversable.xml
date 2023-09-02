@@ -59,7 +59,7 @@
        <entry>
         L'interface <interfacename>Traversable</interfacename> peut désormais
         être implémenté par des classes abstraites.
-        Les classes étendant cele-ci doivent implémenter soit
+        Les classes étendant celle-ci doivent implémenter soit
         <interfacename>Iterator</interfacename> ou
         <interfacename>IteratorAggregate</interfacename>.
        </entry>
